@@ -1,4 +1,4 @@
-Aplicaciòn realizada en Cloud9 IDE utilizando Meteor.
+Aplicación de tareas realizada en Cloud9 IDE utilizando Meteor.
 
      ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
     '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
